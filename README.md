@@ -25,18 +25,11 @@ In some cases the Pico will encounter a hard hang and its USB port will not resp
 
 # The following libraries need to be installed
 
-RadioLib（https://github.com/jgromes/RadioLib）
 TFT_eSPI （https://github.com/Bodmer/TFT_eSPI）
 
 # Open Source / Contributors
 
-jgromes (SX127X，ArduinoCore-mbed)
 
-jgromes (SX126X，ArduinoCore-mbed)
-
-jgromes (LLCC68(Use sx126x code)，ArduinoCore-mbed)
-
-jgromes (SX1280，ArduinoCore-mbed)
 
 And many many others who haven't been mentioned....
 
