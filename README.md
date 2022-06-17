@@ -88,6 +88,8 @@ C:\Users\86186\Documents\Arduino\libraries\TFT_eSPI
 
 # User_Setup_Select.h
 
+Only ONE line below should be uncommented
+
 #include <User_Setups/Setup200_GC9A01.h> 
 
 # You can also use Arduino_ Gfx Library
