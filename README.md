@@ -30,6 +30,7 @@ In some cases the Pico will encounter a hard hang and its USB port will not resp
 # The following libraries need to be installed
 
 TFT_eSPI （https://github.com/Bodmer/TFT_eSPI）
+
 Arduino_GFX(https://github.com/moononournation/Arduino_GFX)
 
 # Open Source / Contributors
