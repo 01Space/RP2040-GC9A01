@@ -4,6 +4,36 @@
 
 ![image](https://github.com/01Space/RP2040-GC9A01/blob/main/image/4.jpg)
 
+# GC9A01
+
+ BL   - pin 2
+ 
+ DC   - pin 8
+ 
+ CS   - pin 9
+ 
+ RST  - pin 12
+ 
+ MOSI - pin 11
+ 
+ SCK  - pin 10
+
+ # SD card 
+
+ MISO - pin 16
+ 
+ MOSI - pin 19
+ 
+ CS   - pin 17
+ 
+ SCK  - pin 18
+ 
+ 
+ LED  - pin 14
+ 
+ RGB  - pin 15
+ 
+
 # General Flashing Instructions:
 
 # Using arduinocore mbed
