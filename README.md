@@ -68,6 +68,21 @@ In some cases the Pico will encounter a hard hang and its USB port will not resp
 
 TFT_eSPI （https://github.com/Bodmer/TFT_eSPI）
 
+If TFT is used_ The ESPI library needs to modify the following 7 lines
+
+# Setup200_GC9A01.h  
+
+#define TFT_MOSI 11 // In some display driver board, it might be written as "SDA" and so on.
+#define TFT_SCLK 10
+#define TFT_CS   9  // Chip select control pin
+#define TFT_DC   8  // Data Command control pin
+#define TFT_RST  12  // Reset pin (could connect to Arduino RESET pin)
+#define TFT_BL   2  // LED back-light
+
+# User_Setup_Select.h
+
+#include <User_Setups/Setup200_GC9A01.h> 
+
 Arduino_GFX(https://github.com/moononournation/Arduino_GFX)
 
 # Open Source / Contributors
