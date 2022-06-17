@@ -38,6 +38,8 @@
  
  button 1 - pin 1
  
+ Buzzer   - pin 7
+ 
 
 # General Flashing Instructions:
 
