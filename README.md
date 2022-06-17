@@ -70,6 +70,8 @@ TFT_eSPI （https://github.com/Bodmer/TFT_eSPI）
 
 If TFT is used_ The ESPI library needs to modify the following 7 lines
 
+C:\Users\86186\Documents\Arduino\libraries\TFT_eSPI
+
 # Setup200_GC9A01.h  
 
 #define TFT_MOSI 11 
@@ -87,6 +89,8 @@ If TFT is used_ The ESPI library needs to modify the following 7 lines
 # User_Setup_Select.h
 
 #include <User_Setups/Setup200_GC9A01.h> 
+
+# You can also use Arduino_ Gfx Library
 
 Arduino_GFX(https://github.com/moononournation/Arduino_GFX)
 
