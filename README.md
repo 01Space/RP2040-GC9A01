@@ -28,10 +28,15 @@
  
  SCK  - pin 18
  
+ # other
  
  LED  - pin 14
  
- RGB  - pin 15
+ RGB  - pin 15 
+ 
+ button 0 - pin 0
+ 
+ button 1 - pin 1
  
 
 # General Flashing Instructions:
